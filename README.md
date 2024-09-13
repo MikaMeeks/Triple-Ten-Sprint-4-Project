@@ -12,9 +12,9 @@ This project utilizes the following libraries: Plotly: For creating interactive 
 The project includes the following features: A histogram showing the distribution of vehicle types vs price. A histogram showing the distribution of transmission types. A histogram showing the distribution of fuel types. A scatterplot showing the relationship between price and odometer reading. An interactive histogram showing the price distribution between fuel types.
 
                         Live Demo
-You can try out the project live at: https://sprint-4-project-0cmz.onrender.com
+You can try out the project live at: https://triple-ten-sprint-4-project.onrender.com
 
-Running the Project Locally
+Run the Project Locally:
 
 If you want to run this project on your local machine, follow these steps:
 
